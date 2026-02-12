@@ -75,6 +75,8 @@ IoT-3Room-Dashboard/
 ├── README.md # Project documentation
 
 ---
+![iot recording](https://github.com/user-attachments/assets/71061556-cd99-470e-ba6e-658da022c8d3)
+
 
 ## Learning Outcomes
 - Python scripting for IoT simulation  
